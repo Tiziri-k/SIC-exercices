@@ -1,2 +1,0 @@
-# design-course
-Design
